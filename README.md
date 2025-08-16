@@ -5,3 +5,31 @@ Blinkit Sales Analysis Dashboard is an interactive Power BI report that provides
 This project is a Power BI dashboard created to analyze Blinkit Sales Data. The dashboard provides insights into sales performance, outlet analysis, product categories, and customer ratings.
 
 The goal of this project is to help stakeholders make data-driven decisions by monitoring key performance indicators (KPIs) and understanding sales trends across different outlets.
+
+# Key Features
+
+Total Sales: $120M
+Average Sales per Item: $141
+Number of Items: 8523
+Average Rating: 3.9
+
+#Insights Covered:
+1. Fat Content Analysis – Comparison of Low Fat vs Regular items.
+2. Sales by Outlet Size – Tier 1, Tier 2, and Tier 3 outlets.
+3. Sales by Outlet Type – Supermarkets and Grocery Stores.
+4. Item Type Analysis – Contribution of different product categories.
+5. Sales Trends by Year – Outlet establishment sales performance over time.
+6. Outlet Location Analysis – Total sales distribution across different locations.
+
+
+
+
+---
+
+🛠️ Tools & Technologies
+
+Power BI Desktop
+
+Data Cleaning & Transformation – Power Query
+
+Data Modeling – DAX (Data Analysis Expressions)
