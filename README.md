@@ -41,7 +41,7 @@ Data Modeling – DAX (Data Analysis Expressions)
 
 1. Clone this repository
 
-git clone https://github.com/your-username/blinkit-sales-analysis.git
+git clone [https://github.com/poonambokde/Blinkit-Analysis.git]
 
 
 2. Open the .pbix file in Power BI Desktop.
