@@ -35,7 +35,7 @@ Data Modeling – DAX (Data Analysis Expressions)
 
 # Dashboard Preview
 
-<a><img width="1485" height="793" alt="Screenshot 2025-08-16 125655" src="https://github.com/user-attachments/assets/5fac67d6-4361-4404-a5ee-2a89fa0cecc7" /></a>
+<a>[<img width="1485" height="793" alt="Screenshot 2025-08-16 125655" src="https://github.com/user-attachments/assets/5fac67d6-4361-4404-a5ee-2a89fa0cecc7" />](https://github.com/poonambokde/Blinkit-Analysis/blob/main/Screenshot%202025-08-16%20125655.png)</a>
 
 # How to Use
 
