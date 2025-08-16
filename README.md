@@ -22,14 +22,8 @@ Average Rating: 3.9
 6. Outlet Location Analysis – Total sales distribution across different locations.
 
 
-
-
----
-
-🛠️ Tools & Technologies
+# Tools & Technologies
 
 Power BI Desktop
-
 Data Cleaning & Transformation – Power Query
-
 Data Modeling – DAX (Data Analysis Expressions)
