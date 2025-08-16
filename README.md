@@ -9,8 +9,11 @@ The goal of this project is to help stakeholders make data-driven decisions by m
 # Key Features
 
 Total Sales: $120M
+
 Average Sales per Item: $141
+
 Number of Items: 8523
+
 Average Rating: 3.9
 
 # Insights Covered:
@@ -25,5 +28,7 @@ Average Rating: 3.9
 # Tools & Technologies
 
 Power BI Desktop
+
 Data Cleaning & Transformation – Power Query
+
 Data Modeling – DAX (Data Analysis Expressions)
