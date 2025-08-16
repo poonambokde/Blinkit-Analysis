@@ -13,7 +13,7 @@ Average Sales per Item: $141
 Number of Items: 8523
 Average Rating: 3.9
 
-#Insights Covered:
+# Insights Covered:
 1. Fat Content Analysis – Comparison of Low Fat vs Regular items.
 2. Sales by Outlet Size – Tier 1, Tier 2, and Tier 3 outlets.
 3. Sales by Outlet Type – Supermarkets and Grocery Stores.
