@@ -32,3 +32,27 @@ Power BI Desktop
 Data Cleaning & Transformation – Power Query
 
 Data Modeling – DAX (Data Analysis Expressions)
+
+# Dashboard Preview
+
+<a> </a>
+
+# How to Use
+
+1. Clone this repository
+
+git clone https://github.com/your-username/blinkit-sales-analysis.git
+
+
+2. Open the .pbix file in Power BI Desktop.
+
+
+3. Explore the visualizations and interact with filters/slicers for insights.
+
+# Key Learnings
+
+Understanding of retail sales performance through visualization.
+
+Hands-on experience with Power BI dashboards.
+
+Ability to identify trends in sales, outlets, and product types.
