@@ -35,7 +35,7 @@ Data Modeling – DAX (Data Analysis Expressions)
 
 # Dashboard Preview
 
-<a> </a>
+<a><img width="1485" height="793" alt="Screenshot 2025-08-16 125655" src="https://github.com/user-attachments/assets/5fac67d6-4361-4404-a5ee-2a89fa0cecc7" /></a>
 
 # How to Use
 
